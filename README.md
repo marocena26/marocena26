@@ -1,10 +1,41 @@
-# Hi! 👋 I’m @marocena26
+# Ahoy! 👋🏼 I’m Elena Arocena
+
+## 👩🏻‍💻 A little more about me...
+
+```bash
+
+class webDevelopmentStudent :
+
+    const aboutMe(self):
+        self.name = "Mª Elena Arocena López"
+        self.role = "Web Development (Front-End and Back-End) Student"
+        self.language_spoken = ["es_ES"]
+   
+    const code_front: [Javascript vanilla, HTML, CSS, Sass, React],
+    
+    const code_back: [React, NodeJS, Express JS, SQL],
+    
+    const editor: [VS Code]
+
+    const say_hi(self):
+        console.log("Thanks for dropping by, hope you find some of my work interesting.")
+        
+  
+
+me = webDevelopmentStudent()
+me.say_hi()
+
+```
+
+## 🎯 Currently:
+
 - 👀 I’m interested in Front End and Back End Web Development.
 - 🌱 I’m currently learning Web Development with HTML, CSS and JavaScript on [Adalab.](https://adalab.es/)
-- 📫 How to reach me: 
-    - Linkedin: [María Elena Arocena López](https://www.linkedin.com/in/maria-elena-arocena-lopez-/)
-    - Twitter: [@marocena26](https://twitter.com/marocena26)
-    - Email: mariaelena.arocena@gmail.com
+
+## 📫 How to reach me:
+- Linkedin: [María Elena Arocena López](https://www.linkedin.com/in/maria-elena-arocena-lopez-/)
+- Twitter: [@marocena26](https://twitter.com/marocena26)
+- Email: mariaelena.arocena@gmail.com
 
 <!---
 marocena26/marocena26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
