@@ -36,7 +36,7 @@ me.say_hi()
 - 🌱 I’m currently learning Web Development with HTML, CSS and JavaScript on [Adalab.](https://adalab.es/)
 
 
-## My GitHub data:
+## 💻 My GitHub data:
 
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=marocena26&show_icons=true&theme=transparent)
 
