@@ -33,7 +33,7 @@ me.say_hi()
 ## 🎯 Currently:
 
 - 👀 I’m interested in Front End and Back End Web Development.
-- 🌱 I’m currently learning Web Development with HTML, CSS and JavaScript on [Adalab.](https://adalab.es/)
+- 🌱 I’m learning Web Development with HTML, CSS and JavaScript on [Adalab.](https://adalab.es/)
 
 
 ## 💻 My GitHub data:
