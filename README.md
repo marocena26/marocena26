@@ -6,16 +6,19 @@
 
 class webDevelopmentStudent :
 
-    const aboutMe(self):
+    const aboutMe(self): {
         self.name = "Mª Elena Arocena López"
         self.role = "Web Development (Front-End and Back-End) Student"
         self.language_spoken = ["es_ES"]
+        }
    
-    const code_front: [Javascript vanilla, HTML, CSS, Sass, React],
+    const code_front: [Javascript vanilla, HTML, CSS, Sass, Grid, React.js],
     
-    const code_back: [React, NodeJS, Express JS, SQL],
+    const code_back: [React.js, NodeJS, Express JS, SQLite],
     
-    const editor: [VS Code]
+    const methodology: [Agile, Scrum]
+    
+    const editor: [VS Code],
 
     const say_hi(self):
         console.log("Thanks for dropping by, hope you find some of my work interesting.")
