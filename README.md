@@ -8,7 +8,7 @@ class webDevelopmentStudent :
 
     const aboutMe(self): {
         self.name = "Mª Elena Arocena López"
-        self.role = "Web Development (Front-End and Back-End) Student"
+        self.role = " Junior Front-end Developer"
         self.language_spoken = ["es_ES"]
         }
    
@@ -32,8 +32,9 @@ me.say_hi()
 
 ## 🎯 Currently:
 
-- 👀 I’m interested in Front End and Back End Web Development.
-- 🌱 I’m learning Web Development with HTML, CSS and JavaScript on [Adalab.](https://adalab.es/)
+- 🎓 I've just finished a Front-end Development Bootcamp in [Adalab.](https://adalab.es/).
+- 🔭 I'm looking for a job to gain experience in the world of web development.
+- ✨  I'm currently increasing my knowledge in React and Node JS. 
 
 
 ## 💻 My GitHub data:
