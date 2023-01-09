@@ -31,7 +31,7 @@ class webDeveloper:
     const aboutMe(self): {
         self.name = "Mª Elena Arocena López"
         self.role = " Junior Front-end Developer"
-        self.language_spoken = ["es_ES"]
+        self.language_spoken = ["es_ES", "en_US(B2)"]
         }
    
     const code_front: [Javascript vanilla, HTML, CSS, Sass, Grid, React.js],
