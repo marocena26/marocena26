@@ -10,7 +10,7 @@ Excited about this new journey that begins and eager to find an opportunity that
 
 ```bash
 
-class webDevelopmentStudent :
+class webDeveloper:
 
     const aboutMe(self): {
         self.name = "Mª Elena Arocena López"
@@ -28,13 +28,20 @@ class webDevelopmentStudent :
 
     const say_hi(self):
         console.log("Thanks for dropping by, hope you find some of my work interesting.")
-        
-  
 
 me = webDevelopmentStudent()
 me.say_hi()
 
 ```
+## 📱 How to reach me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/maria-elena-arocena-lopez-/">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/marocena26">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## 🎯 Currently:
 
@@ -44,6 +51,8 @@ me.say_hi()
 
 ## 🛠️ Languages and Tools :
 
+### Languages:
+
 ![https://github-readme-stats.vercel.app/api?username=marocena26&show_icons=true&theme=transparent](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -52,19 +61,21 @@ me.say_hi()
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools:
+
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+## 📈 My GitHub data:
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=marocena26&theme=material-palenight&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marocena26&theme=material-palenight&layout=compact)
 
 
-## 💻 My GitHub data:
-
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=marocena26&show_icons=true&theme=transparent)
-
-## 📫 How to reach me:
-- Linkedin: [María Elena Arocena López](https://www.linkedin.com/in/maria-elena-arocena-lopez-/)
-- Twitter: [@marocena26](https://twitter.com/marocena26)
-- Email: mariaelena.arocena@gmail.com
 
 <!---
 marocena26/marocena26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
