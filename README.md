@@ -1,10 +1,26 @@
+<div id="header" align="center">
+  <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maria-elena-arocena-lopez-/">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/marocena26">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+     <a href="mailto:mariaelena.arocena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>  
+
+
 # Ahoy! 👋🏼 I’m Elena Arocena
 
-As an Early Childhood Education teacher, I decided to change my career path in search of new challenges that would help me feel more fulfilled professionally. I have found that motivation in the world of programming.
+- 👩🏻‍🏫 As an Early Childhood Education teacher, I decided to **change my career** path in search of **new challenges** that would help me feel more fulfilled professionally. **I have found that motivation in the world of programming**.
 
-I'm easy to learn, flexible, self-starter and comfortable adapting to any role within a team. I'm used to solving complex situations in stressful moments and I have a great command of time control and organisation. 
+- ✏️ I'm **easy to learn, flexible, self-starter** and **comfortable adapting** to any role within a team. I'm used to **solving complex situations in stressful moments** and I have a **great command of time control and organisation**. 
 
-Excited about this new journey that begins and eager to find an opportunity that allows me to grow and learn more every day as a professional.
+- 🚀 Excited about this **new journey** that begins and eager to find an opportunity that allows me to grow and learn more every day as a professional.
 
 ## 👩🏻‍💻 A little more about me...
 
@@ -33,21 +49,12 @@ me = webDevelopmentStudent()
 me.say_hi()
 
 ```
-## 📱 How to reach me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/maria-elena-arocena-lopez-/">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/marocena26">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 ## 🎯 Currently:
 
-- 🎓 I've just finished a Front-end Development Bootcamp in [Adalab.](https://adalab.es/).
-- 🔭 I'm looking for a job to gain experience in the world of web development.
-- ✨  I'm currently increasing my knowledge in React and Node JS. 
+- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab.](https://adalab.es/)**.
+- 🔭 I'm **looking for a job** to gain experience in the world of web development.
+- ✨ I'm currently **increasing my knowledge in React and Node JS**. 
 
 ## 🛠️ Languages and Tools :
 
