@@ -52,9 +52,9 @@ me.say_hi()
 
 ## 🎯 Currently:
 
-- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab.](https://adalab.es/)**.
+- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab.](https://adalab.es/)**
 - 🔭 I'm **looking for a job** to gain experience in the world of web development.
-- ✨ I'm currently **increasing my knowledge in React and Node JS**. 
+- ✨ I'm currently **increasing my knowledge in JavaScript, React and Node JS**. 
 
 ## 🛠️ Languages and Tools :
 
