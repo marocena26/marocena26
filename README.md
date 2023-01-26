@@ -45,7 +45,7 @@ class webDeveloper:
     const say_hi(self):
         console.log("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = webDevelopmentStudent()
+me = webDeveloper()
 me.say_hi()
 
 ```
