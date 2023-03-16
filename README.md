@@ -30,11 +30,11 @@ class webDeveloper:
 
     const aboutMe(self): {
         self.name = "Mª Elena Arocena López"
-        self.role = " Junior Front-end Developer"
+        self.role = " Junior Front-end Developer and Student at 42Madrid (maarocen)"
         self.language_spoken = ["es_ES", "en_US(B2)"]
         }
    
-    const code_front: [Javascript vanilla, HTML, CSS, Sass, Grid, React.js],
+    const code_front: [Javascript vanilla, HTML, CSS, Sass, Grid, React.js, C, Bash],
     
     const code_back: [React.js, NodeJS, Express JS, SQLite],
     
@@ -52,6 +52,7 @@ me.say_hi()
 
 ## 🎯 Currently:
 
+- 🐟 Student in **[42 Madrid - Fundación Telefónica]**(https://www.42madrid.com/)
 - 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab.](https://adalab.es/)**
 - 🔭 I'm **looking for a job** to gain experience in the world of web development.
 - ✨ I'm currently **increasing my knowledge in JavaScript, React and Node JS**. 
@@ -65,7 +66,8 @@ me.say_hi()
 ![https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### Frameworks & Library:
 ![https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
