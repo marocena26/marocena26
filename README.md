@@ -2,17 +2,17 @@
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/maria-elena-arocena-lopez-/" target=”_blank”>
+  <a href="https://www.linkedin.com/in/maria-elena-arocena-lopez-/" Target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/marocena26" target=”_blank”>
+  <a href="https://twitter.com/marocena26" Target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-     <a href="mailto:mariaelena.arocena@gmail.com" target=”_blank”>
+     <a href="mailto:mariaelena.arocena@gmail.com" Target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    </a>
-     <a href="https://marocena26.github.io/elena-arocena-portfolio/index.html" target=”_blank”>
+     <a href="https://marocena26.github.io/elena-arocena-portfolio/index.html" Target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </div>  
