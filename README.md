@@ -52,8 +52,8 @@ me.say_hi()
 
 ## 🎯 Currently:
 
-- 🐟 Student in **[42 Madrid - Fundación Telefónica]**(https://www.42madrid.com/)
-- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab.](https://adalab.es/)**
+- 🐟 Student in **[42 Madrid - Fundación Telefónica](https://www.42madrid.com/)**.
+- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab](https://adalab.es/)**.
 - 🔭 I'm **looking for a job** to gain experience in the world of web development.
 - ✨ I'm currently **increasing my knowledge in JavaScript, React and Node JS**. 
 
@@ -90,10 +90,6 @@ me.say_hi()
 ### Social: 
 ![https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
-
-
 
 ## 📈 My GitHub data:
 
