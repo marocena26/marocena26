@@ -61,7 +61,7 @@ me.say_hi()
 - 🐟 Student in **[42 Madrid - Fundación Telefónica](https://www.42madrid.com/)**.
 - 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab](https://adalab.es/)**.
 - 🔭 I'm **looking for a job** to gain experience in the world of web development.
-- ✨ I'm currently **increasing my knowledge in JavaScript, React and Node JS**. 
+- ✨ I'm currently **increasing my knowledge in JavaScript, React and C**. 
 
 ## 🛠️ Languages and Tools :
 
