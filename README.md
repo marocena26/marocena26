@@ -20,9 +20,11 @@
 
 # Ahoy! 👋🏼 I’m Elena Arocena
 
-- 👩🏻‍🏫 As an Early Childhood Education teacher, I decided to **change my career** path in search of **new challenges** that would help me feel more fulfilled professionally. **I have found that motivation in the world of programming**.
+- 👩🏻‍💻 My desire to **grow** and feel more fulfilled professionally made me **get into programming**.
 
-- ✏️ I am a **fast learner**, **flexible and proactive**, and I am **comfortable adapting to any role within a team**. I'm used to **solving complex situations in stressful moments** and I have a **great command of time control and organisation**. 
+- ✏️ What **attracted me** most to this world? **Working in a team and cooperatively**, the **novelty** of the day-to-day, the **challenges** and the possibility of **working in multidisciplinary environments**. 
+
+- 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
 
 - 🚀 Excited about this **new journey** that begins and eager to find an opportunity that allows me to grow and learn more every day as a professional.
 
