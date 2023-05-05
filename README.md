@@ -40,9 +40,9 @@ class webDeveloper:
         self.language_spoken = ["es_ES", "en_US(B2)"]
         }
    
-    const code_front: [Javascript vanilla, HTML, CSS, Sass, Grid, React.js, C, Bash],
+    const code_front: [TypeScript, Javascript vanilla, HTML, CSS, Sass, Grid, React.js, Angular],
     
-    const code_back: [React.js, NodeJS, Express JS, SQLite],
+    const code_back: [ NodeJS, Express JS, C],
     
     const methodology: [Agile, Scrum]
     
@@ -59,9 +59,7 @@ me.say_hi()
 ## 🎯 Currently:
 
 - 🐟 Student in **[42 Madrid - Fundación Telefónica](https://www.42madrid.com/)**.
-- 🎓 I've just finished a **Front-end Development Bootcamp in [Adalab](https://adalab.es/)**.
-- 🔭 I'm **looking for a job** to gain experience in the world of web development.
-- ✨ I'm currently **increasing my knowledge in JavaScript, React and C**. 
+- ✨ I'm currently **increasing my knowledge in TypeScript, Angular and C**. 
 
 ## 🛠️ Languages and Tools :
 
