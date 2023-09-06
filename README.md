@@ -26,8 +26,6 @@
 
 - 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
 
-- 🚀 Excited about this **new journey** that begins and eager to find an opportunity that allows me to grow and learn more every day as a professional.
-
 ## 👩🏻‍💻 A little more about me...
 
 ```bash
