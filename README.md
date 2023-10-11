@@ -96,11 +96,7 @@ me.say_hi()
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 📈 My GitHub data:
 
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=marocena26&theme=material-palenight&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marocena26&theme=material-palenight&layout=compact)
 
 
 
