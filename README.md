@@ -55,7 +55,7 @@ me.say_hi()
 ```
 
 ## 🎯 Currently:
-- 💻​ Working as **Junior Front End Developer**
+- 💻​ Working as **Junior Front End Developer**.
 - 🐟 Student in **[42 Madrid - Fundación Telefónica](https://www.42madrid.com/)**.
 - ✨ I'm currently **increasing my knowledge in TypeScript, Angular and C**. 
 
