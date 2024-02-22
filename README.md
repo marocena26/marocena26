@@ -51,8 +51,10 @@ export class WebDeveloper {
 ```
 
 ## 🎯 Currently:
+
 - 💻​ Working as **Junior Front End Developer**.
-- ✨ I'm currently **increasing my knowledge in TypeScript, Angular and Git**. 
+- 🌱​ Working on **personal projects**.
+- ✨ I'm **increasing my knowledge in TypeScript, Angular and Git**. 
 
 ## 🛠️ Languages and Tools :
 
