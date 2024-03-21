@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    </a>
-     <a href="https://marocena26.github.io/elena-arocena-portfolio/index.html" target="_blank">
+     <a href="https://elena-arocena-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </div>  
